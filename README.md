@@ -1,16 +1,9 @@
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
 ###
 
 <h2 align="left">Hi 👋! I am Prince...</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
 
 ###
 
